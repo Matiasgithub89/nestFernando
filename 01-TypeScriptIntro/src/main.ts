@@ -2,7 +2,7 @@ import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
-import { charmander } from './bases/03-class.ts'
+import { charmander } from './bases/04-Injection.ts'
 // import { pokemons } from './bases/02-objects';
 
 
