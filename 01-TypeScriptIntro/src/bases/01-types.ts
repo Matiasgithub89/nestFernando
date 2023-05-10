@@ -5,7 +5,7 @@ export const isValid:boolean=true;
 export const templateString =`Esto es un string 
 multi linea
 que puede tener " dobles
-' simples
+' simpless
 inyectar valores ${name}
 numeros: ${age}
 booleans: ${isValid}`
