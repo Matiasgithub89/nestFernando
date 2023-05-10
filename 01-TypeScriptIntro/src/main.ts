@@ -2,8 +2,10 @@ import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
-import { charmander } from './bases/04-Injection.ts'
+// import { charmander } from './bases/04-Injection.ts'
 // import { pokemons } from './bases/02-objects';
+// import { charmander } from './bases/05-decorators.ts' 
+import { charmander } from './bases/06-decorators';
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
